@@ -151,5 +151,5 @@ This process will create a native `.exe` file that can be shared with any Window
 
 3.  **Find Your App:**
     Your final application, **`productivity_app.exe`**, will be located in the `dist` folder. You can now run this file on any Windows computer. To share it, simply compress the `dist` folder into a `.zip` file.
-    
-    iehfe
+
+    iehfess
